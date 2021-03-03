@@ -1,10 +1,10 @@
 {
-  "name": "new-app-lite-ts",
+  "name": "xpress-passport",
   "version": "1.0.0",
-  "description": "XpresserJs Typescript Lite App (No Views) Boilerplate ",
+  "description": "Xpresser passport local example ",
   "main": "app.ts",
-  "repository": "https://github.com/xpresserjs/new-app-lite-ts",
-  "author": "xpresserjs",
+  "repository": "https://github.com/trapcodeio/xpresser-passport-local",
+  "author": "trapcodeio",
   "license": "MIT",
   "private": false,
   "scripts": {
